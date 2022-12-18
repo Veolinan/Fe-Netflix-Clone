@@ -80,7 +80,7 @@ Netflix clone made with advanced react, redux & firebase which uses redux thunk 
 
 ## Author
 
-- Shivam Aima
+- Veolinan 
 
 ---
 
